@@ -1,0 +1,7 @@
+p{
+    display: flex;
+    font-size: 30px;
+    font-weight :900;
+    justify-content: center;
+    color: rgb(10, 92, 191);
+}

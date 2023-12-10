@@ -1,0 +1,11 @@
+#x, #y, #z{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+#roll{
+    width: 100%;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;   
+}
